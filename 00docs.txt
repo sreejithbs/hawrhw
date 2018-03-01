@@ -1,0 +1,13 @@
+http://socketo.me/docs/push
+https://stackoverflow.com/questions/31366855/how-to-bind-zeromq-socket-with-ratchet-web-socket-library-to-make-real-time-appl
+https://github.com/ratchetphp/Ratchet/issues/599
+https://stackoverflow.com/questions/17583903/how-to-get-the-connection-object-of-a-specific-user
+https://stackoverflow.com/questions/29576033/send-user-id-from-browser-to-websocket-server-while-opening-connection
+https://www.ctolib.com/article/comments/11262
+https://github.com/ratchetphp/Ratchet/issues/585
+https://github.com/ratchetphp/Ratchet/issues/261
+https://github.com/ratchetphp/Ratchet/issues/573
+https://github.com/ratchetphp/Ratchet/issues/397
+https://stackoverflow.com/questions/30953610/how-to-send-messages-to-particular-users-ratchet-php-websocket
+https://blog.samuelattard.com/the-tutorial-for-php-websockets-that-i-wish-had-existed/
+https://stackoverflow.com/questions/27656725/creating-managing-private-rooms-using-ratchet
