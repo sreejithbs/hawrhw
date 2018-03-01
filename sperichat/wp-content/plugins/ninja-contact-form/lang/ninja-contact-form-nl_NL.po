@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ninja Kick: Contact Form v3.1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-14 14:15:56+0000\n"
+"Last-Translator: admin <fernando.garcia@thinkk.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: main.php:164
+#@ ninja-contact-form
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: main.php:195
+#@ ninja-contact-form
+msgid "Settings"
+msgstr "Instellingen"
+
+#: main.php:226
+#@ ninja-contact-form
+msgid "* %% must have at least %% characters."
+msgstr "* %% moet ten minste %% lettertekens bevatten."
+
+#: main.php:227
+#@ ninja-contact-form
+msgid "* %% can have at most %% characters."
+msgstr "* %% mag maximaal %% tekens bevatten."
+
+#: main.php:228
+#@ ninja-contact-form
+msgid "* %% must match %%."
+msgstr "* %% moet gelijk zijn aan %%."
+
+#: main.php:229
+#@ ninja-contact-form
+msgid "* %% must be less than %%"
+msgstr "* %% moet minder zijn dan %%"
+
+#: main.php:230
+#@ ninja-contact-form
+msgid "* %% must be greater than %%."
+msgstr "* %% moet groter zijn dan %%."
+
+#: main.php:231
+#@ ninja-contact-form
+msgid "* %% must be numeric."
+msgstr "* %% moet een getal zijn."
+
+#: main.php:232
+#@ ninja-contact-form
+msgid "* %% must be a valid email address."
+msgstr "* %% moet een geldig email adres zijn."
+
+#: main.php:233
+#@ ninja-contact-form
+msgid "* %% must be a valid ip address."
+msgstr "* %% moet een geldig ip adres zijn."
+
+#: main.php:234
+#@ ninja-contact-form
+msgid "* Wrong %%"
+msgstr "* Fout %%"
+
+#: main.php:255
+#@ ninja-contact-form
+msgid "Send more"
+msgstr "Nog een bericht"
+
+#: main.php:256
+#@ ninja-contact-form
+msgid "Try again"
+msgstr "Probeer opnieuw"
+
+#: main.php:257
+#@ ninja-contact-form
+msgid "Close"
+msgstr "Sluit"
+
+#: main.php:258
+#@ ninja-contact-form
+msgid "Sending"
+msgstr "Wordt verstuurd"
+
+#: main.php:259
+#@ ninja-contact-form
+msgid "Something went wrong while sending your message"
+msgstr "Iets ging mis tijdens het verzenden"
+
+#: main.php:416
+#@ ninja-contact-form
+msgid "Message not sent. An unknown error occurred."
+msgstr "Bericht is niet verzonden door een onbekende fout"
+
+#: ninja-contact-form.php:116
+#@ ninja-contact-form
+msgid "Your name"
+msgstr "Naam"
+
+#: ninja-contact-form.php:120
+#@ ninja-contact-form
+msgid "Your company"
+msgstr "Bedrijf"
+
+#: ninja-contact-form.php:125
+#@ ninja-contact-form
+msgid "Your phone"
+msgstr "Telefoonnummer"
+
+#: ninja-contact-form.php:130
+#@ ninja-contact-form
+msgid "Your address"
+msgstr "Adres"
+
+#: ninja-contact-form.php:134
+#@ ninja-contact-form
+msgid "Your e-mail"
+msgstr "Email"
+
+#: ninja-contact-form.php:138
+#@ ninja-contact-form
+msgid "Email subject"
+msgstr "Onderwerp"
+
+#: ninja-contact-form.php:142
+#@ ninja-contact-form
+msgid "Your message"
+msgstr "Bericht"
+
+#: ninja-contact-form.php:154
+#@ ninja-contact-form
+msgid "Send"
+msgstr "Verzend"
+
+#: main.php:736
+#@ ninja-contact-form
+msgid " Contact Form Submission"
+msgstr "Contact formulier verzending"
+
+#: main.php:836
+#@ ninja-contact-form
+msgid "Your message was successfully sent!"
+msgstr "Uw bericht is verzonden!"
+
+#: settings.php:1862
+#, php-format
+#@ imsanity
+msgid ""
+"Oh Snap! Imsanity was unable to resize this image for the following reason: '%s'\n"
+"\t\t\t\t\t\t.  If you continue to see this error message, you may need to either install missing server components or disable the Imsanity plugin.  If you think you have discovered a bug, please report it on the Imsanity support forum."
+msgstr ""
+
+#: settings.php:1692
+#@ imsanity
+msgid "Oh Snap! Imsanity was Unable to process the BMP file.  If you continue to see this error you may need to disable the BMP-To-JPG feature in Imsanity settings."
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: main.php:0
+#@ ninja-contact-form
+msgid "Ninja Kick: Contact Form"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: main.php:0
+#@ ninja-contact-form
+msgid "contactform.looks-awesome.com"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: main.php:0
+#@ ninja-contact-form
+msgid "Push/Sliding Contact Form on every page of your site."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: main.php:0
+#@ ninja-contact-form
+msgid "Looks Awesome"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: main.php:0
+#@ ninja-contact-form
+msgid "http://looks-awesome.com"
+msgstr ""
+
+#: main.php:225
+#@ ninja-contact-form
+msgid "* Please enter %%"
+msgstr ""
+
+#: ninja-contact-form.php:151
+#@ ninja-contact-form
+msgid "Answer"
+msgstr ""
+
+#: settings.php:113
+#@ ninja-contact-form
+msgid "Show Form for:"
+msgstr ""
+
+#: settings.php:115
+#@ ninja-contact-form
+msgid "Everyone"
+msgstr ""
+
+#: settings.php:116
+#@ ninja-contact-form
+msgid "Logged-out users"
+msgstr ""
+
+#: settings.php:117
+#@ ninja-contact-form
+msgid "Logged-in users"
+msgstr ""
+
+#: settings.php:122
+#@ ninja-contact-form
+msgid "Show on mobiles:"
+msgstr ""
+
+#: settings.php:124
+#@ ninja-contact-form
+msgid "Show"
+msgstr ""
+
+#: settings.php:125
+#@ ninja-contact-form
+msgid "Don't show"
+msgstr ""
+
+#: settings.php:130
+#@ ninja-contact-form
+msgid "Display rule:"
+msgstr ""
+
+#: settings.php:133
+#@ ninja-contact-form
+msgid "Hide on checked pages"
+msgstr ""
+
+#: settings.php:134
+#@ ninja-contact-form
+msgid "Show on checked pages"
+msgstr ""
+
+#: settings.php:139
+#: settings.php:411
+#@ ninja-contact-form
+msgid "Default WP pages"
+msgstr ""
+
+#: settings.php:144
+#: settings.php:416
+#@ ninja-contact-form
+msgid "Page"
+msgstr ""
+
+#: settings.php:150
+#: settings.php:422
+#@ default
+msgid "Pages"
+msgstr ""
+
+#: settings.php:180
+#: settings.php:453
+#@ ninja-contact-form
+msgid "Custom Post Types"
+msgstr ""
+
+#: settings.php:207
+#: settings.php:480
+#@ default
+msgid "Categories"
+msgstr ""
+
+#: settings.php:236
+#: settings.php:509
+#@ ninja-contact-form
+msgid "Languages"
+msgstr ""
+
+#: settings.php:252
+#: settings.php:525
+#@ ninja-contact-form
+msgid "Comma Separated list of IDs of posts not listed above"
+msgstr ""
+
+#: main.php:1077
+#@ ninja-contact-form
+msgid "Front"
+msgstr ""
+
+#: main.php:1078
+#@ ninja-contact-form
+msgid "Home/Blog"
+msgstr ""
+
+#: main.php:1079
+#@ default
+msgid "Archives"
+msgstr ""
+
+#: main.php:1080
+#@ default
+msgid "Single Post"
+msgstr ""
+
+#: main.php:1082
+#@ default
+msgid "Search"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: main.php:0
+#@ ninja-contact-form
+msgid "3.1.5"
+msgstr ""
+
+#: main.php:370
+#@ ninja-contact-form
+msgid "This email was sent because someone used Ninja Kick Contact Form on your site"
+msgstr ""
+
+#: main.php:382
+#@ ninja-contact-form
+msgid "Name"
+msgstr ""
+
+#: main.php:383
+#@ ninja-contact-form
+msgid "Company"
+msgstr ""
+
+#: main.php:384
+#@ ninja-contact-form
+msgid "Phone"
+msgstr ""
+
+#: main.php:385
+#@ ninja-contact-form
+msgid "Address"
+msgstr ""
+
+#: main.php:386
+#@ ninja-contact-form
+msgid "Email"
+msgstr ""
+
+#: main.php:387
+#@ ninja-contact-form
+msgid "Sent from page"
+msgstr ""
+
+#: main.php:388
+#@ ninja-contact-form
+msgid "IP"
+msgstr ""
+
+#: main.php:389
+#@ ninja-contact-form
+msgid "Browser info"
+msgstr ""
+
+#: ninja-contact-form.php:146
+#@ ninja-contact-form
+msgid "ncf_sub_question"
+msgstr ""
+
